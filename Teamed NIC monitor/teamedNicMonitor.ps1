@@ -1,5 +1,5 @@
-# Set teaming member NIC name
-$memberName = "team"
+# Set member NIC name
+$memberName = "<Set member NIC name here>"
 
 # Please do NOT edit from here
 $currentTime = Get-Date -Format "yyyy/MM/dd HH:mm:ss.fff"
